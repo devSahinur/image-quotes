@@ -1,5 +1,4 @@
 
-
 function Header() {
   return (
     <div className="flex justify-center gap-1 absolute w-full mt-10 text-3xl font-black">
