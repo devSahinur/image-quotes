@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34748469/133837934-3584c5a0-e650-46c1-a0c7-7125d30fd145.png" height="100" width="100" />
+  <img src="https://i.ibb.co/m89P93y/Screenshot-12.png" height="100" width="100" />
 </p>
 <h1 align="center">IMAGE QUOTES</h1>
 
