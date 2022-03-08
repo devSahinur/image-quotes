@@ -11,7 +11,6 @@ function RandomQuote() {
       setData(data);
     });
   };
-  
 
   useEffect(() => {
     updateQuote();
@@ -30,7 +29,8 @@ function RandomQuote() {
     <>
       <div className="hidden md:flex absolute w-full top-0 bottom-0 mt-auto mb-auto items-center justify-center px-6 bg-white z-20">
         <h1 className="text-gray-500 font-bold text-xl">
-        This website is not optimized for mobile devices. Please visit us again from a computer.
+          This website is not optimized for mobile devices. Please visit us
+          again from a computer.
         </h1>
       </div>
       <div

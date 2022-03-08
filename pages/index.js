@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "../components/Header";
 import RandomQuote from "../components/RandomQuote";
-import { GithubForkBanner } from 'react-github-fork-banner'
+import { GithubForkBanner } from "react-github-fork-banner";
 
 export default function Home() {
   return (
@@ -9,9 +9,16 @@ export default function Home() {
       <Head>
         <title>Image Quotes</title>
       </Head>
-      
+
       <Header />
-     
+      <GithubForkBanner
+        direction="right"
+        size={98}
+        animation="tail"
+        customHref="https://github.com/abrahamcalsin/screen-quotes"
+        bannerColor="#312E81"
+        octoColor="rgb(224, 231, 255)"
+      />
       <RandomQuote />
     </>
   );
