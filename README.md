@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/m89P93y/Screenshot-12.png" height="100" width="100" />
+  <img src="https://i.ibb.co/m89P93y/Screenshot-12.png" />
 </p>
-<h1 align="center">IMAGE QUOTES</h1>
 
 <h3 align="center">This is a quote generated website</h3>
 
